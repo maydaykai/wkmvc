@@ -794,6 +794,7 @@
     <Content Include="Areas\SysManage\Views\BussinessCustomer\Index.cshtml" />
     <Content Include="Areas\SysManage\Views\SysLog\Detail.cshtml" />
     <Content Include="Areas\SysManage\Views\SysLog\Index.cshtml" />
+    <None Include="Properties\PublishProfiles\wkmvc.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

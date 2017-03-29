@@ -1,4 +1,4 @@
-INSERT INTO [dbo].[SYS_CODE_AREA] ([ID], [PID], [NAME], [LEVELS]) VALUES (N'10', N'3', N'新泾镇', 4)
+﻿INSERT INTO [dbo].[SYS_CODE_AREA] ([ID], [PID], [NAME], [LEVELS]) VALUES (N'10', N'3', N'新泾镇', 4)
 INSERT INTO [dbo].[SYS_CODE_AREA] ([ID], [PID], [NAME], [LEVELS]) VALUES (N'100', N'95', N'真如镇', 4)
 INSERT INTO [dbo].[SYS_CODE_AREA] ([ID], [PID], [NAME], [LEVELS]) VALUES (N'1000', N'973', N'盐津县', 3)
 INSERT INTO [dbo].[SYS_CODE_AREA] ([ID], [PID], [NAME], [LEVELS]) VALUES (N'10000', N'9994', N'瞿靖镇', 4)
